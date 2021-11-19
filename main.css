@@ -1,0 +1,9 @@
+.features{
+    position: absolute;
+    text-align: center;
+    width: 100%
+}
+
+* { 
+    font-family: 'Roboto', serif;
+}
